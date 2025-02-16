@@ -26,7 +26,7 @@ This project implements a Connect Four game with an AI opponent utilizing the Mi
 ```sh
 # Clone the repository
 git clone https://github.com/your-username/connect-four.git
-cd connect-four-ai
+cd connect-four
 
 # Install dependencies
 pip install numpy
