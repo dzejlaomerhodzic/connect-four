@@ -41,8 +41,4 @@ python connect_four.py
 - **Graphical User Interface**: A more interactive and visually appealing game experience.
 - **Error Handling & Input Validation**: More robust handling of edge cases.
 
-## Contributing
-Feel free to fork the repository and submit pull requests to improve the game!
 
-## License
-This project is open-source and available under the MIT License.
